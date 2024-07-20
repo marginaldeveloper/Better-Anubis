@@ -1,0 +1,10 @@
+phonenumbers
+json
+requests
+time
+pystyle
+whois
+python-whois
+colorama
+faker
+bs4
