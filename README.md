@@ -31,8 +31,10 @@
 Я добавил в инструмент несколько программ для продвинутого поиска по IP, юзернейму, телефону. Расширил опции скриптом, обновил некоторые мануалы.
 
 1. Клонируйте репозиторий: 
-   git clone https://github.com/17murmuwer/Better-Anubis
-    pip install -r requirements.txt
-    python Better ANubis @MarginalDeveloper.py
+   1.git clone https://github.com/17murmuwer/Better-Anubis
+   
+    2.pip install -r requirements.txt
+   
+    3. python Better ANubis @MarginalDeveloper.py
 
 Примечание: Используйте этот инструмент ответственно. Автор не несет ответственности за ваши действия.
