@@ -30,5 +30,7 @@
 ## **Инструкция по установке и запуску:**
 
    git clone https://github.com/17murmuwer/Better-Anubis
+   
    pip install -r requirements.txt   
+   
    python Better_Anubis.py
